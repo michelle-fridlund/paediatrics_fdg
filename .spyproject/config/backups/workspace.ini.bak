@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['C:\\Users\\IFRI0015.REGIONH\\.spyder-py3\\temp.py', '..\\Rb82-dev\\src\\ptd_parsers.py', '..\\Rb82-dev\\3d_unet\\display_images.py', 'data_generator.py', '..\\Rb82-dev\\3d_unet\\main.py', '..\\Rb82-dev\\src\\image_metrics.py', 'prepare_data.py', '..\\pytorch\\MLutils\\data\\torch\\data_generator.py', '..\\Rb82-dev\\3d_unet\\data_generator.py', '..\\Rb82-dev\\src\\PETCT_data_parsing.py', '..\\Rb82-dev\\src\\LM_parser.py']
+
