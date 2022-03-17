@@ -6,3 +6,6 @@ __pycache__
 *.h5
 *.stdout
 /old_runs
+paediatrics_fdg_data/
+reconsFeb2022/
+workspace.code-workspace

@@ -1,0 +1,29 @@
+#------------------------------------------------------#
+#              JSRecon12 parameters                    #
+#                  19-Sep-2017                         #
+#------------------------------------------------------#
+
+outimagesize  :=     400
+
+zoom           :=   1
+
+postfilterxy    :=     2
+postfilterz     :=     2
+
+NONawiter       :=       2
+NONawsubsets    :=      21
+NONopiter       :=       2
+NONopsubsets    :=      21
+NONpsfiter      :=       2
+NONpsfsubsets   :=      21
+
+TOFawiter       :=       2
+TOFawsubsets    :=      21
+TOFopiter       :=       2
+TOFopsubsets    :=      21
+TOFpsfiter      :=       2
+TOFpsfsubsets   :=      21
+
+LMFrames        := all
+
+matchctslice      :=       1

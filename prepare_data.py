@@ -49,7 +49,7 @@ def parse_bool(b):
 # Interquartile range of an array
 def get_iqr(vals):
     from scipy.stats import iqr
-    my_iqr = iqr(vals, rng=(25, 95))
+    my_iqr = iqr(vals, rng=(25, 98))
     print(f'IQR value is: {my_iqr}')
     return my_iqr
 
